@@ -1,0 +1,42 @@
+
+
+Started GET "/" for 27.131.11.254 at 2016-06-02 02:38:33 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.2/lib/rails/templates/rails/welcome/index.html.erb (3.6ms)
+Completed 200 OK in 41ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 27.131.11.254 at 2016-06-02 02:40:18 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.2/lib/rails/templates/rails/info/properties.html.erb (0.6ms)
+Completed 200 OK in 114ms (Views: 50.8ms | ActiveRecord: 3.3ms)
+
+
+Started GET "/" for 27.131.11.254 at 2016-06-02 02:40:42 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.2/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 27.131.11.254 at 2016-06-02 02:45:16 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.2/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 27.131.11.254 at 2016-06-02 02:45:18 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.2/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 27.131.11.254 at 2016-06-02 02:51:14 +0000
+Processing by ApplicationController#hello as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 27.131.11.254 at 2016-06-02 02:51:41 +0000
+Processing by ApplicationController#hello as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
